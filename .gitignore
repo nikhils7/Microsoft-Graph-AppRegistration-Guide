@@ -1,0 +1,13 @@
+# PowerShell-specific ignores
+*.psd1
+*.psm1
+*.log
+*.csv
+*.transcript
+
+# OS-specific
+Thumbs.db
+.DS_Store
+
+# VS Code settings
+.vscode/
